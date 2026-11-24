@@ -3,7 +3,8 @@
 - Bounty: Two Days of Quiet Dread, $2, deadline 26 Nov 2026 11:45 WIB
 - Builder: fresh post-open session (session id 0d2d38c1-270c-4a06-a1cb-5412e1d6efc1)
 - Repo: https://github.com/Bozet404/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018
-- Commit SHA: 08d291e (main.py added; HEAD at report time)
+- Commit SHA (entry, main.py): 08d291e
+- HEAD commit (incl. this log): see `git log` — report's final SHA below
 - Anchor: `makefun anchor 8d278241f0ebc8a9d983b42d31c362c50e4e3427 round 34231623`
 - License: MIT (committed before this session)
 
